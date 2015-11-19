@@ -1,28 +1,28 @@
-﻿ITEM_20150317_000001	$Empty_helmet 
-ITEM_20150317_000002	$Murmillo Helmet 
-ITEM_20150317_000003	$Empty_armband 
-ITEM_20150317_000004	$Red Armband 
-ITEM_20150317_000005	$Armband 
-ITEM_20150317_000006	$Knotted Armband 
-ITEM_20150317_000007	$Long Armband 
-ITEM_20150317_000008	$Feather Armband 
-ITEM_20150317_000009	$Tasseled Armband 
-ITEM_20150317_000010	$Empty_weapon 
-ITEM_20150317_000011	{memo X}$Crude Gladius 
-ITEM_20150317_000012	$One-Handed Sword [Slash] 
-ITEM_20150317_000013	$The standard weapon of the kingdom's soldiers. Also commonly carried by civilians.
+﻿ITEM_20150317_000001	$Elmo_vazio
+ITEM_20150317_000002	$Elmo do Murmillo
+ITEM_20150317_000003	$Braçadeira_vazia 
+ITEM_20150317_000004	$Braçadeira Vermelha 
+ITEM_20150317_000005	$Braçadeira 
+ITEM_20150317_000006	$Braçadeira Laçada 
+ITEM_20150317_000007	$Braçadeira Longa 
+ITEM_20150317_000008	$Braçadeira de Pena 
+ITEM_20150317_000009	$Brassadeira Borlada
+ITEM_20150317_000010	$Arma_vazia
+ITEM_20150317_000011	{memo X}$Gladius Bruta 
+ITEM_20150317_000012	$Espada de uma mão [Slash] 
+ITEM_20150317_000013	$A arma  padrão dos soldados do reino. Também geralmente carregada pelos civis.
 ITEM_20150317_000014	$Gladius 
-ITEM_20150317_000015	$This weapon is an improved version of its military counterpart.
-ITEM_20150317_000016	{memo X}$Low Falchion 
-ITEM_20150317_000017	$This sword is exceptional for slashing. 
-ITEM_20150317_000018	{memo X}$Low Kaskara 
-ITEM_20150317_000019	$Due to its ease in manufacturing, this sword is frequently chosen by adventurers as their first replacement for their training sword. 
+ITEM_20150317_000015	$Esta arma é uma versão melhorada de sua contrapartida militar.
+ITEM_20150317_000016	{memo X}$Falchion inferior
+ITEM_20150317_000017	$Esta espada é excepcional para cortar. 
+ITEM_20150317_000018	{memo X}$Kaskara inferior
+ITEM_20150317_000019	$Devido a sua facilidade de produção, esta espada é frequentemente escolhida por aventureiros como suas primeiras trocas por suas espadas de treinamento. 
 ITEM_20150317_000020	$Cinquedea 
-ITEM_20150317_000021	$Recommended for those who desire a heavier and stronger sword. 
+ITEM_20150317_000021	$Recomendadad para aqueles que desejam uma espada mais forte e pesada. 
 ITEM_20150317_000022	$Sabre 
-ITEM_20150317_000023	$Primary weapon of the Cavalry, optimized for slashing. The guard on the hilt helps protect the user's hand. 
+ITEM_20150317_000023	$Principal arma da Cavalaria, otimizada para cortar. A proteção no cabo ajuda a protegem a mão do usuário. 
 ITEM_20150317_000024	$Shamshir 
-ITEM_20150317_000025	$The blade's large crescent edge cuts with immense power.
+ITEM_20150317_000025	$O gume crescente e grande da lâmina corta com imenso poder.
 ITEM_20150317_000026	$Scimitar 
 ITEM_20150317_000027	$Its heavy weight is compensated by its very powerful slash. 
 ITEM_20150317_000028	$Kris 
@@ -31,7 +31,7 @@ ITEM_20150317_000030	$Snickersnee
 ITEM_20150317_000031	$Its extremely sharp blade makes it a favorite among even the most experienced swordsmen. 
 ITEM_20150317_000032	{memo X}$Crude Shamshir 
 ITEM_20150317_000033	{memo X}$Crude Scimitar 
-ITEM_20150317_000034	$Soldier's Gladius 
+ITEM_20150317_000034	$Gladius do Soldado 
 ITEM_20150317_000035	$A basic armament provided to full-time soldiers. Its overall quality is better than those sold in the market. 
 ITEM_20150317_000036	$Mayor's Falchion 
 ITEM_20150317_000037	$Looking at this weapon raises suspicions on its previous owner's past. 
